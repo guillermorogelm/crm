@@ -31,3 +31,12 @@
     "vite": "^5.4.2"
   }
 }
+
+{
+  "homepage": "https://guillermorogelm.github.io/crm",
+  "scripts": {
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  }
+}
+
